@@ -13,6 +13,7 @@
 - 📍 Based in Karachi, Pakistan — Open to remote & hybrid opportunities
 - 🌐 Building dynamic, scalable apps with clean code & strong UI/UX
 - 💬 Ask me about: Java Development ✨ | REST APIs | Full Stack Project Architecture
+- 🚀 Currently learning: **Spring Security**, **Kafka**, and **Cloud (AWS/GCP)**  
 - ⚡ Fun fact: I thrive in tech communities and lead with purpose
 
 ---
@@ -25,7 +26,7 @@
 
 ---
 
-<h3 align="center">🚀 Tech Stack</h3>
+
 
 <table>
   <tr>
