@@ -96,5 +96,5 @@
 ---
 
 <div align="center">
-  🛠️ **Maintained with ❤️ by Muhammad Faisal**
+  🛠️ Maintained with ❤️ by Muhammad Faisal
 </div>
