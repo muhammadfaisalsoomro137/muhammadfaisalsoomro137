@@ -25,34 +25,40 @@
 
 ---
 
-## 🚀 Tech Stack
+<h3 align="center">🚀 Tech Stack</h3>
 
-<table><tr><td valign="top" width="50%">
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4 align="center">Frontend</h4>
+      <p align="center">
+        <img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" width="50" height="50"/>
+        <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" width="50" height="50"/>
+        <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" width="50" height="50"/>
+        <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" width="50" height="50"/>
+        <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" width="50" height="50"/>
+        <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" width="50" height="50"/>
+        <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" width="50" height="50"/>
+        <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" width="50" height="50"/>
+      </p>
+    </td>
 
-### Frontend  
-<div align="center">  
-<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="55" />  
-<img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" height="55" />
-<img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="55" />  
-<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="55" />  
-<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="55" />  
-<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="55" />  
-<img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" height="55" />  
-</div>
-
-</td><td valign="top" width="50%">
-
-### Backend & DB  
-<div align="center">  
-<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="55" />  
-<img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="55" />  
-<img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" height="55" />  
-<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="55" />  
-<img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="55" />  
-<img src="https://profilinator.rishav.dev/skills-assets/firebase.png" height="55" />  
-</div>
-
-</td></tr></table>
+   <td valign="top" width="50%">
+      <h4 align="center">Backend</h4>
+      <p align="center">
+        <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" width="50" height="50"/>
+        <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" width="50" height="50"/>
+        <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" width="50" height="50"/>
+        <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" width="50" height="50"/>
+        <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" width="50" height="50"/>
+        <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" width="50" height="50"/>
+         <img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" width="50" height="50"/>
+      </p>
+    </td>
+    
+  
+  </tr>
+</table>
 
 ---
 
@@ -71,7 +77,7 @@
 
 - 📧 Email: **soomrofaisal137@gmail.com**  
 - 📍 Location: **Karachi, Pakistan**  
-- 📞 Phone: **+92 304 3432137 **  
+- 📞 Phone: **+92 304 3432137**  
 - 🧾 LinkedIn: [Muhammad Faisal](https://www.linkedin.com/in/muhammad-faisal-98098a229/)  
 - 🐙 GitHub: [muhammadfaisalsoomro137](https://github.com/muhammadfaisalsoomro137)  
 
@@ -80,13 +86,14 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muqadasurooj17&show_icons=true&count_private=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadfaisalsoomro137&show_icons=true&count_private=true&hide_border=true" />
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=muqadasurooj17&&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=muhammadfaisalsoomro137&&style=flat-square" />
 </div>
+
 
 ---
 
 <div align="center">
-  🛠️ *Maintained with ❤️ by Muhammad Faisal *
+  🛠️ **Maintained with ❤️ by Muhammad Faisal**
 </div>
