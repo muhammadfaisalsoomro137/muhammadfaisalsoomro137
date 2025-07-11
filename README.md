@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" style="width: 100%" />
-</div>  
-
 <h2 align="center">Hey 👋 I'm Muhammad Faisal</h2>  
 <h4 align="center">Full Stack Java Developer | Software Engineer </h4>
 
