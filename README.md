@@ -90,6 +90,9 @@
 
 
 ---
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadfaisalsoomro137&theme=github-compact" />
+
+
 
 <div align="center">
   🛠️ Maintained with ❤️ by Muhammad Faisal
