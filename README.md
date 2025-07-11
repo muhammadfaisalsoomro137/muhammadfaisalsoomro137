@@ -22,40 +22,24 @@
 
 ---
 
+### 🚀 Tech Stack
 
+**Frontend:**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h4 align="center">Frontend</h4>
-      <p align="center">
-        <img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" width="50" height="50"/>
-        <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" width="50" height="50"/>
-        <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" width="50" height="50"/>
-        <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" width="50" height="50"/>
-        <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" width="50" height="50"/>
-        <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" width="50" height="50"/>
-        <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" width="50" height="50"/>
-        <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" width="50" height="50"/>
-      </p>
-    </td>
+**Backend:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
 
-   <td valign="top" width="50%">
-      <h4 align="center">Backend</h4>
-      <p align="center">
-        <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" width="50" height="50"/>
-        <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" width="50" height="50"/>
-        <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" width="50" height="50"/>
-        <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" width="50" height="50"/>
-        <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" width="50" height="50"/>
-        <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" width="50" height="50"/>
-         <img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" width="50" height="50"/>
-      </p>
-    </td>
-    
-  
-  </tr>
-</table>
+**Databases & Tools:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ---
 
